@@ -1604,7 +1604,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #333333;
+			background-color: maroon;
 		}
 
 		input[type="button"]:active,
@@ -1628,7 +1628,7 @@ input, select, textarea {
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background-color: #888888;
+				background-color: maroon;
 			}
 
 			input[type="button"].alt:active,
@@ -2157,7 +2157,7 @@ input, select, textarea {
 		}
 
 			#footer a:hover {
-				color: white;
+				color: maroon;
 			}
 
 		#footer .copyright {
